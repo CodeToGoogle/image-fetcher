@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/image-fetcher/static/css/main.83768481.css",
+    "main.js": "/image-fetcher/static/js/main.185e2afd.js",
+    "index.html": "/image-fetcher/index.html",
+    "main.83768481.css.map": "/image-fetcher/static/css/main.83768481.css.map",
+    "main.185e2afd.js.map": "/image-fetcher/static/js/main.185e2afd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83768481.css",
+    "static/js/main.185e2afd.js"
+  ]
+}
